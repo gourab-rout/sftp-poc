@@ -1,4 +1,4 @@
-#Sftp File Polling
+# Sftp File Polling
 
 This POC explains how we can read files from a SFTP location. This poc assumes you have already SFTP configured.
 In order to run this project, please update the SFTP details in the file src/main/resources/local.propeties
